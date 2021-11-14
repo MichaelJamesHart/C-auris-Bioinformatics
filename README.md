@@ -17,3 +17,9 @@ that allows the modified protein to be anchored in the cell membrane’s outer l
 cases contributing to cell-cell contact and adhesion (Paulick and Bertozzi, 2008). Several of the
 analyses I undertook will be detailed in this paper, including a multiple sequence alignment of
 homologs, phylogenetic trees, 3D protein structure prediction, and motif discovery.
+
+![Maximum Parsimony Tree](https://github.com/MichaelJamesHart/C-auris-Bioinformatics/blob/main/img/max-parsimony-tree.png)
+
+![Multiple Sequence Alignment](https://github.com/MichaelJamesHart/C-auris-Bioinformatics/blob/main/img/msa.png)
+
+![3d Model](https://github.com/MichaelJamesHart/C-auris-Bioinformatics/blob/main/img/3d-model.png)
