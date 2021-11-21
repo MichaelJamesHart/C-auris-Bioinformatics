@@ -1,7 +1,7 @@
 # C-auris-Bioinformatics
  A research paper on a supposed adhesin functional domain of C. auris.
 
-See the file "Michael Hart Final Project Report.pdf" for the full report.
+See the file "C-auris-Bioinformatics-Report.pdf" for the full report.
 
 C. auris has recently emerged as a lethal threat in clinical settings due to its multidrug
 resistance. This danger is compounded by strong adhesive properties that make it difficult to
